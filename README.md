@@ -56,5 +56,8 @@ Describe the major technical or non-technical challenges your team encountered.
 - 🔹 Other: OpenAI API / Twilio / Stripe
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- **Bharath Chakka** - [GitHub](#) | [LinkedIn](#)
+- **Shanteshwar Jubrevaar** - [GitHub](#) | [LinkedIn](#)
+- **Archana Dara** - [GitHub](#) | [LinkedIn](#)
+- **Suman Nama** - [GitHub](#) | [LinkedIn](#)
+- **Sonu Sahu** - [GitHub](#) | [LinkedIn](#)
